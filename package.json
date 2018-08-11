@@ -1,19 +1,16 @@
 {
-  "name": "WK1 TDD Revision",
+  "name": "WK1-TDD-Revision",
   "version": "1.0.0",
   "description": "Revision of test driven development from week 1 of Bootcamp - Nikau 2018",
   "main": "index.js",
   "scripts": {
     "start": "node index",
     "test": "jest --watchAll --noStackTrace"
-  }, 
+  },
   "jest": {
     "testEnvironment": "node"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rous6026nz/WK1-TDD-Revision.git"
-  },
+  "repository": "git+https://github.com/rous6026nz/WK1-TDD-Revision.git",
   "author": "Zaine Kingi",
   "license": "ISC",
   "bugs": {
